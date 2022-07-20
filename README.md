@@ -1,1 +1,1 @@
-"# hosting jupyter boos as website" 
+# hosting jupyter books as website"
